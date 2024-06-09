@@ -1,0 +1,40 @@
+.main{
+    background-color: aliceblue;
+    height: auto;
+    width: 1500px;
+
+}
+.login-form_content{
+    background-color: #F2F2F2;
+}
+.login-form_head_text
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+.Login-form_group{
+    text-align: center;
+}
+
+.Login-form_input{
+margin-bottom: 20px;
+}
+
+button{
+    border-style: none;
+    background-color: rgb(38, 81, 207);
+    color: white;
+    border-radius: 5px;
+}
+.newhead{
+    font-size: 10px;
+}
+.Login-form_new{
+    padding-bottom: 10%;
+}
+.Login-form_register_botton{
+    font-size: 10px;
+}

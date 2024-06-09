@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_logo {
+    width: 10%;
+}
+
+.header_right {
+    display: flex;
+    font-size: 15px;
+    margin-top: 40px;
+}
+
+.header_navi {
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+}
